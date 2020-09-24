@@ -5,7 +5,7 @@ class Cat
      @name = name
     end
   end
-  
+
   my_cat = Cat.new("Maru")
   my_cat.name
 end
