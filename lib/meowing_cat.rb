@@ -8,4 +8,3 @@ class Cat
 
   my_cat = Cat.new("Maru")
   my_cat.name
-end
