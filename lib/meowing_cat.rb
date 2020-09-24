@@ -2,6 +2,6 @@
 class Cat
   attr_accessor :name
   def initialize(@name)
-  @name = Maru
+  @name = name
 end
 end
